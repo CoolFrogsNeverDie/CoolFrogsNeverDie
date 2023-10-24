@@ -23,26 +23,3 @@
 <img src="https://img.shields.io/badge/Mybatis-363636?style=flat-square&logo=Mybatis&logoColor=white"/>
 
 <br />
-
-## Projects
-<br>
-<div style="display: inline-block;">
-
-### 모임관리 서비스 FIRMEET 
-##### 상세 포트폴리오 :  [FIRMEET 포트폴리오](https://www.notion.so/FIRMEET-2d9ffc42347e4297bfec7db65aec3ea2)
-![소개 페이지](https://github.com/FIR-MEET/firmeet/assets/131581968/3b9b5000-d0b4-4bea-8d9b-0f3f03ae892c)
-
-
-동호회 모임을 결제,등록하고 개인 스케줄과 한 번에 관리할 수 있는 동호회 커뮤니티 사이트
-
-</div>
-<div style="display: inline-block;">
-
-    
-</div><br><br>
-
-### 애완용품 쇼핑몰 CATDOG
-##### 상세 포트폴리오 : [CATDOG 포트폴리오](https://www.notion.so/CATDOG-0a06084f4d9a4bb1be13afe1ba571e88)
-![image](https://github.com/fireChild9589/shoppingmall/assets/131581968/9f355006-1028-4116-a292-58a2cac8a99a)
-
-깔끔한 UI의 애완용품 쇼핑몰
