@@ -10,13 +10,14 @@
 
 😀 다양한 것들을 경험하는 걸 즐깁니다.
 
-<br/>
+<br>
 
 ### 📱 Connect with me:
-
-✉️ : zan02261@naver.com
-📞 : 010-3782-2337
-💻 : https://blog.naver.com/zan02261
+<div style="color: black;">
+    ✉️: zan02261@naver.com <br>
+    📞: 010-3782-2337 <br>
+    💻: <a href="https://blog.naver.com/zan02261" style="text-decoration: none; color: black;"> https://blog.naver.com/zan02261 </a>
+</div>
 
 <br/>
 
