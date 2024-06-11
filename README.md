@@ -5,9 +5,6 @@
 ##  Connect with me:
 <br>
 <div style="color: black;">
-    :email: : zan02261@naver.com <br>
-    :iphone: : 010-3782-2337 <br>
-    💻: <a href="https://blog.naver.com/zan02261" style="text-decoration: none; color: black;"> https://blog.naver.com/zan02261 </a>
 </div>
 
 <br/>
