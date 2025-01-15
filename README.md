@@ -1,10 +1,7 @@
-
-
-
-
-##  Connect with me:
+##  For
 <br>
 <div style="color: black;">
+  Study with me
 </div>
 
 <br/>
@@ -19,6 +16,5 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Tomcat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mybatis-363636?style=flat-square&logo=Mybatis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mybatis-363636?style=flat-square&logo=Jpa&logoColor=white"/>
 
 <br />
