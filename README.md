@@ -1,7 +1,6 @@
 ##  For
 <br>
 <div style="color: black;">
-  Study with me
 </div>
 
 <br/>
